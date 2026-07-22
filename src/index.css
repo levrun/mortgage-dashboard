@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap');
+
+:root { font-family: Inter, system-ui, sans-serif; color: #18223b; background: radial-gradient(circle at 15% 0%,#eaf1ff 0,transparent 32%),#f4f7fb; font-synthesis:none; text-rendering:optimizeLegibility; }
+body { margin:0; min-width:320px; min-height:100vh; }
+button,input { font:inherit; }
