@@ -1,6 +1,8 @@
 # Mortgage Dashboard
 
-A responsive React mortgage calculator with a live monthly-payment estimate and cost breakdown.
+A responsive TypeScript/React dashboard for our home at Crown, including purchase history, confirmed payments, monthly costs and an adjustable payoff projection.
+
+The building image is sourced from [YouLive's Crown building page](https://en.youlive.ca/coquitlam-building/5874-crown).
 
 ## Development
 
