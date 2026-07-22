@@ -1,16 +1,18 @@
-# Mortgage Dashboard
+# Mortgage Dashboard (Ипотечный дашборд)
 
-A responsive TypeScript/React dashboard for our home at Crown, including purchase history, confirmed payments, monthly costs and an adjustable payoff projection.
+Версия 3 — русскоязычный интерфейс.
 
-The building image is sourced from [YouLive's Crown building page](https://en.youlive.ca/coquitlam-building/5874-crown).
+Адаптивный TypeScript/React-дашборд для нашего дома в Crown: история покупки, подтверждённые платежи, ежемесячные расходы и настраиваемый прогноз погашения ипотеки.
 
-## Development
+Фото здания взято со [страницы Crown на YouLive](https://en.youlive.ca/coquitlam-building/5874-crown).
+
+## Разработка
 
 ```bash
 npm install
 npm run dev
 ```
 
-## Deployment
+## Деплой
 
-The app deploys automatically to GitHub Pages through the workflow in `.github/workflows/deploy.yml`.
+Приложение автоматически публикуется на GitHub Pages через workflow в `.github/workflows/deploy.yml`.
